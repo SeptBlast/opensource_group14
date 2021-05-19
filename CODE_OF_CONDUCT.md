@@ -1,3 +1,14 @@
+---
+title: "{{ replace .Name "-" " " | title }}"
+#description: Code_Of_Condeuct
+date: {{ .Date }}
+draft: true
+toc: false
+image: ""
+tags: []
+categories: []
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
