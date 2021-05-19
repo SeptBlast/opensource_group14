@@ -1,6 +1,6 @@
 ---
 title: "Code of Conduct - Developers"
-#description: Code_Of_Condeuct
+description: Code_Of_Condeuct
 draft: false
 toc: false
 image: ""
