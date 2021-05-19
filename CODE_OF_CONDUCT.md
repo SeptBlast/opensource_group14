@@ -1,8 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Code of Conduct - Developers"
 #description: Code_Of_Condeuct
-date: {{ .Date }}
-draft: true
+draft: false
 toc: false
 image: ""
 tags: []
